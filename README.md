@@ -1,10 +1,10 @@
 # Личный проект «Кэт энерджи» от HTML Academy
 
-* Студент: [Дмитрий Зимаков](https://up.htmlacademy.ru/adaptive/19/user/849345).
+* Студент: [Дмитрий Зимаков](https://htmlacademy.ru/profile/id849345).
 
 ---
 
-** Навыки: **
+# Навыки:
 
 - html & css - фиксированная, резиновая, адпативная верстка
 - javascript
